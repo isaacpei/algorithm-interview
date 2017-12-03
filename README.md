@@ -13,5 +13,9 @@ Weekly algorithm questions for interview
 ## TODOs
 1. How to write code correctly?
 2. How to communicate with interviewer?
-3. FAQ
+3. Test cases and judging scripts
+4. FAQ
 and so on..
+
+## And...
+We have a QQ group: 676901252
