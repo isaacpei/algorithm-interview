@@ -1,0 +1,37 @@
+# Max Queue
+
+## Description
+Implement a queue with get_max() function, which will return the maximum number in the stack.
+
+## Input:
+We have three methods to call:
+1. push x
+2. pop
+3. get_max
+
+## Ouput
+1. push x: return nothing
+2. pop: return the number at the front of the queue, return -1 if the queue is empty
+3. get_max: return the maximum number in the queue, if the queue is empty, return -1
+
+## Example
+for input:
+```
+push 4
+push 2
+get_max
+push 3
+get_max
+pop
+get_max
+```
+the output is:
+```
+None
+None
+4
+None
+4
+4
+3
+```
